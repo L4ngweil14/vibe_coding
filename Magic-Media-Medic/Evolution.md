@@ -32,3 +32,9 @@ Idee: Ein Arbeitsordner .script_data mit einer Datenbank (processed.log). Das Sk
 Stärken: Absolut sicher gegen Abbrüche. Man kann es jederzeit stoppen und starten. Lädt beim Start alle bekannten Pfade in Millisekunden in den RAM.
 
 Vibe: Jetzt fühlt es sich professionell an. Ein echtes Werkzeug.
+
+Statistik,Wert
+Gesamtdateien,~ 31.500
+Repariert (Fixes),[8807]
+Dauer,~ [15] min
+KI-Partner,Google Gemini
