@@ -28,6 +28,7 @@ Schwächen: Wenn das Skript abbricht, muss man wieder von vorne anfangen zu zäh
 
 Phase 4: Das "Gedächtnis" (Aktueller Stand)
 Idee: Ein Arbeitsordner .script_data mit einer Datenbank (processed.log). Das Skript merkt sich jede Datei, die es jemals gesehen hat.
+Upgrade auf Tmux-Sessions für 24/7 Betrieb & Laptop-Freiheit.
 
 Stärken: Absolut sicher gegen Abbrüche. Man kann es jederzeit stoppen und starten. Lädt beim Start alle bekannten Pfade in Millisekunden in den RAM.
 
@@ -38,3 +39,5 @@ Gesamtdateien,~ 31.500
 Repariert (Fixes),[8807]
 Dauer,~ [15] min
 KI-Partner,Google Gemini
+
+
