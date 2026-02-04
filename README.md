@@ -1,7 +1,7 @@
 # vibe_coding
 AI-Augmented Development &amp; Creative Problem Solving. Bending the chaos one script at a time.
 
-🌀 Vibe Coding @ L4ngweil14
+🌀 Vibe Coding @ Nono-builds
 Alle sagen, KI sei ein Segen. Ich denke mir eher: Es ist wie ein ADHS-Kind auf Steroiden mit zu viel Wissen. Manchmal anstrengend, aber man kann verdammt viel damit anfangen, wenn man den Vibe trifft.
 
 Das Ziel
